@@ -8,7 +8,7 @@
 
 struct Zadanie 
 {
-	int R, P, Q, nr; 
+	int R, P, Q, nr;  
 };
 
 
